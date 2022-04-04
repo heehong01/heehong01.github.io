@@ -13,6 +13,8 @@ This website is a website that allows a user to create their own garden that fit
 
 Future features that will be incorporated is a garden generator with various of questions that describes your lifestyle, along with the ability to save these gardens for future use. 
 
+Users will be able to take a look at a demo of the website at heehong01.github.io
+
 #### Technical Specifications:
 
 This project used languages such as HTML, CSS, and JavaScript. Along with the addition of Bootstrap CSS framework. 
